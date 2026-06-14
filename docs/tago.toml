@@ -1,0 +1,10 @@
+title       = "swapi"
+baseURL     = "https://swapi-cli.tamnd.com/"
+description = "A command line for the Star Wars API."
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/swapi-cli"
